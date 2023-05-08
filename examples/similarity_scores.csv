@@ -1,0 +1,176 @@
+legislative election,legislature,0.7757911856756357
+legislative election,general election,0.8498534268503957
+legislative election,election announcement,0.8101498695044298
+legislative election,legislative action,0.7968494741466593
+legislative election,constitutional amendment,0.7334096707731331
+leadership,leadership,1.0000000896928722
+leadership,detain leadership,0.717907121877083
+sexual abuse,human rights abuse,0.7550018313026141
+political corruption,political faction,0.7753591913245076
+political corruption,domestic political crisis,0.7976379198307768
+political corruption,domestic political crisis,0.7976379198307768
+political corruption,political faction opposition,0.7854231547402858
+political corruption,domestic political crisis,0.7976379198307768
+political corruption,political faction consensus,0.7358309470805754
+political corruption,government repression,0.7332666471472076
+violent crime,violence,0.8359396506848471
+targeting,targeted sanctions,0.7293503046498241
+election,general election,0.8889766950787447
+election,election announcement,0.8833007541739356
+growth,economic decline,0.7200745722925971
+growth,military growth,0.7715571627600388
+public service,general public,0.7991764724405905
+parliamentary opposition,political faction,0.7097134322106767
+parliamentary opposition,military opposition,0.7762270556240607
+parliamentary opposition,political faction opposition,0.8394995931118379
+parliamentary opposition,political faction consensus,0.7156589311002586
+legislative session,legislative action,0.794642178666246
+public speaking,general public,0.8187857961637703
+conflict escalation,conflict escalation,1.000000041190942
+conflict escalation,armed conflicts,0.7539534514896646
+rise,economic decline,0.7048190955346859
+event,event outlinks,1.0000000376456661
+event,event outlinks,1.0000000376456661
+political movement,political faction,0.7826052385353379
+political movement,domestic political crisis,0.7419454737029862
+political movement,domestic political crisis,0.7419454737029862
+political movement,political faction opposition,0.8067948946330774
+political movement,domestic political crisis,0.7419454737029862
+political movement,political faction consensus,0.7515639051380303
+amendment,legislation,0.7747583684090464
+amendment,constitutional amendment,0.9079627150486401
+harm reduction,aid reduction or end,0.755864425599747
+censorship,censor media,0.7015301649535187
+abuse,human rights abuse,0.7492369106237995
+legislation,legislation,0.9999999596983589
+legislation,legislature,0.7173476256128001
+legislation,legislative action,0.7001795291022409
+legislation,constitutional amendment,0.7718624985214354
+legislation,dissolve legislation,0.7862449879097252
+military raid,military,0.8370235667846427
+military raid,military officer,0.7803434465147566
+military raid,military opposition,0.7472753179785433
+societal collapse,economic decline,0.7253510754763501
+loss,economic loss,0.8172808910476047
+hearing loss,economic loss,0.7262733054140844
+military deployment,military,0.8637763962225538
+military deployment,external military power,0.7048893792058165
+military deployment,external military power,0.7048893792058165
+military deployment,military officer,0.767051799328184
+military deployment,external military power,0.7048893792058165
+military deployment,military opposition,0.7406248936221905
+military deployment,military popularity,0.7318876154539601
+military deployment,military consensus,0.7171504822280755
+military deployment,military growth,0.739212938291315
+recurring event,event outlinks,0.7764681463474583
+recurring event,event outlinks,0.7764681463474583
+media campaign,censor media,0.7010109130214133
+economic loss,economic loss,1.0000000273138103
+economic loss,economic decline,0.8278044126640455
+reform,legislation,0.7553011766884989
+budget,budget change,0.8723520277652125
+crime,violence,0.7065271970759053
+election campaign,general election,0.8272224017088317
+election campaign,election announcement,0.8455391584907507
+court order,courts,0.7247138288423164
+court order,suspend civil courts,0.7300456939747627
+decentralization,democratization,0.722308547582988
+political campaign,political faction,0.7880960289048831
+political campaign,domestic political crisis,0.7685642266977638
+political campaign,general election,0.7421209494859902
+political campaign,domestic political crisis,0.7685642266977638
+political campaign,political faction opposition,0.808705155947105
+political campaign,domestic political crisis,0.7685642266977638
+political campaign,political faction consensus,0.7432368463857163
+economic support,domestic political crisis,0.7501155193655931
+economic support,domestic political crisis,0.7501155193655931
+economic support,economic loss,0.7546978762194909
+economic support,domestic political crisis,0.7501155193655931
+economic support,economic decline,0.7764133594636103
+economic support,military growth,0.7006449995913113
+adduction,flexion,0.7224130679573149
+adduction,flexion,0.7224130679573149
+legal case,legal proceeding,0.8374696734454513
+legal case,court order,0.7273169764735802
+transport,freight transport,0.8960270804746209
+education,teaching,0.7310407719069645
+education,primary education,0.8885184996284334
+education,educational assessment,0.7858333204824468
+disease outbreak,epidemic,0.7999157894901908
+disease outbreak,disease susceptibility,0.80475475813738
+disease outbreak,disease,0.8892587160340384
+corruption,political corruption,0.880422936184561
+self-assembly,self-governance,0.7127853331871359
+self-assembly,self-organization,0.7559242389478927
+self-assembly,self-management,0.7443387864365745
+commitment,dedication,0.7340014316956501
+architectural engineering,architectural conservation,0.7945630462305678
+architectural engineering,geotechnical engineering,0.7643737854296305
+target,targeting,0.7333673320726881
+involvement,participation,0.7123520014914968
+targeting,target,0.7333673320726881
+gathering,gather,0.7850988342140222
+purchasing,selling,0.7091571005246786
+public service,public speaking,0.7336851150152854
+public service,community service,0.8619811193318224
+public service,public funding,0.7422660729879667
+public service,national service,0.8539500146366843
+political corruption,corruption,0.880422936184561
+political corruption,political movement,0.7515089667785738
+political corruption,political campaign,0.7912818395987156
+political corruption,political agitation,0.7447188679296384
+marital separation,divorce,0.7108662884393578
+rejection,social rejection,0.779144904114049
+outreach,advocacy,0.7158022391904844
+project cancellation,project,0.7302510788436284
+project cancellation,cancellation,0.7674336385024991
+legislative election,parliamentary opposition,0.7634698088240686
+legislative election,election,0.9060925106062359
+legislative election,legislative session,0.7865230650497761
+legislative election,voting,0.7117367853700176
+legislative election,elected,0.7135830696278935
+legislative election,election campaign,0.8460963659274574
+legislative election,primary election,0.8455214010442045
+legislative election,political campaign,0.7523725030565583
+assault,sexual assault,0.8484659157467257
+pandemic,epidemic,0.773268018167946
+parliamentary opposition,legislative election,0.7634698088240686
+parliamentary opposition,election,0.7155564313821784
+attack,panic attack,0.852182502843367
+meeting,party conference,0.709768024567485
+abuse,sexual abuse,0.8971437144859289
+abuse,psychological abuse,0.8709323222102765
+raid,military raid,0.824426465043008
+writing style,writing,0.8333143624147245
+writing style,web writing,0.7378843809731404
+anti-discrimination,anti-war movement,0.7473740576169671
+project,project cancellation,0.7302510788436284
+project,project commissioning,0.85068669104795
+election,legislative election,0.9060925106062359
+election,parliamentary opposition,0.7155564313821784
+election,voting,0.7421602239982839
+election,elected,0.7175590941173791
+election,re-election,0.725578583749209
+election,election campaign,0.9038442559456432
+election,primary election,0.8785827992151084
+election,vote,0.731821260683773
+election,political campaign,0.7346118985166553
+election,by-election,0.712514638317935
+work,manual work,0.7728509211195873
+work,working conditions,0.7263656487593357
+intimate relationship,intimacy,0.7216392555376568
+intimate relationship,interpersonal relationship,0.7630502861271757
+intimate relationship,physical intimacy,0.7163226347493706
+violent crime,murder,0.7358400173214851
+violent crime,criminal investigation,0.7006788385925906
+violent crime,crime,0.905511094110887
+violent crime,corporate crime,0.7405248586485272
+violent crime,organized crime,0.8053459728779779
+back injury,neck injury,0.854644536208804
+back injury,head injury,0.8926183093082813
+back injury,brain injury,0.8105152380550118
+back injury,injury,0.8898810955561792
+back injury,electrical injury,0.7207520809512082
+sexual abuse,abuse,0.8971437144859289
+sexual abuse,sexual assault,0.8693327501860769
+sexual abuse,psychological abuse,0.8710860991427133
