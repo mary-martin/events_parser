@@ -121,15 +121,15 @@ def get_all_event_elements(filename):
 def check_similarity(args):
     type1, type2 = args
     if type1 != type2:
-        doc1 = nlp(type1)
-        doc2 = nlp(type2)
+        doc1 = nlp(type1.strip())
+        doc2 = nlp(type2.strip())
         similarity_score = doc1.similarity(doc2)
         if similarity_score > 0.7:
             line = [type1.lower(), type2.lower(), similarity_score]
             data_to_csv(line, filename="similarity_scores.csv")
             # print(line)
     else:
-        print("Duplicate: ", type1)
+        # print("Duplicate: ", type1)
         return
 
     return (type1, type2, similarity_score)
@@ -227,11 +227,11 @@ def main():
     output_text = args.text
 
     # uncomment to delete and replace files from previous run
-    os.system("rm event_data_*.csv")
-    os.system("rm repeated_nodes_list.csv")
-    os.system("rm repeated_nodes.csv")
-    os.system("rm repeated_nodes_args.csv")
-    os.system("rm *.txt")
+    # os.system("rm event_data_*.csv")
+    # os.system("rm repeated_nodes_list.csv")
+    # os.system("rm repeated_nodes.csv")
+    # os.system("rm repeated_nodes_args.csv")
+    # os.system("rm *.txt")
 
     # These global variables are used to keep track of the q_nodes and repeated q_nodes
     global all_nodes
